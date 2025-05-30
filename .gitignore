@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.ropeproject
+__pycache__
+mix.wav
+target.wav
